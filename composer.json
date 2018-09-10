@@ -1,0 +1,20 @@
+{
+    "name": "user/cms-project",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "pusher/pusher-php-server": "^3.2",
+        "vlucas/phpdotenv": "^2.5"
+    },
+    "autload":{
+        "classmap":[
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "vasko",
+            "email": "vjelovac90@gmail.com"
+        }
+    ]
+    
+}
